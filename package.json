@@ -1,0 +1,23 @@
+{
+  "name": "weather-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "yql": "^1.0.0"
+  },
+  "description": "Weather Api for Virgina CyberRange",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishmalpani706/weather-api.git"
+  },
+  "author": "Ashish Malpani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishmalpani706/weather-api/issues"
+  },
+  "homepage": "https://github.com/ashishmalpani706/weather-api#readme"
+}
