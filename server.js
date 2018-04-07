@@ -1,6 +1,6 @@
 const http = require('http');
-var url = require('url');
-var YQL = require('yql');
+const url = require('url');
+const YQL = require('yql');
 
 const hostname = '127.0.0.1';
 const port = 8080;
